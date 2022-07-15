@@ -1,6 +1,6 @@
 spring:
  datasource:
-     url: jdbc:sqlserver://azure5.database.windows.net:1433;database=sonali;user=sonali@azure5;password={your_password_here};encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+     url: jdbc:sqlserver://sql125.database.windows.net:1433;database=sql;user=sonali@sql125;password={your_password_here};encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
      username: sonali
      password: Son@li1205mindtree
  jpa:
